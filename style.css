@@ -39,11 +39,14 @@ h1, h2, h3, h4, h5, h6, p{
     line-height: 29px;
     width: 246px;
 }
-.sec{
+.sec-h{
     width: 293px;
 }
 .members-ul-item-p {
     margin-top: 19px;
     font-size: 17px;
     line-height: 24px;
+}
+.sec-p{
+    margin-top: 47px;
 }
